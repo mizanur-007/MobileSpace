@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&family=Satisfy&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg-color{
+    background-color: rgba(255,255,255,0.1);
+}
+
+
+
+
+:root {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.logofont{
+    font-family: 'Satisfy', cursive;
+
+}
+
+.swiper {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+  
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  body.light-mode {
+    background-color: #fff;
+    color: #333;
+    transition: background-color 0.3s ease;
+  }
+  body.dark-mode {
+    background-color: #1a1919;
+    color: #999;
+  }
+  

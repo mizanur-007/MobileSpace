@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "brand_name": "Apple",
+      "image_url": "https://i.ibb.co/yNgjN0m/rsz-laptop-wooden-table.jpg"
+    },
+    {
+      "id": 2,
+      "brand_name": "Samsung",
+      "image_url": "https://i.ibb.co/3S8CtvL/rsz-p6ysg40.jpg"
+    },
+    {
+      "id": 3,
+      "brand_name": "Google",
+      "image_url": "https://i.ibb.co/PDVTcrf/rsz-pixel-8-pro-bay-1840.jpg"
+    },
+    {
+      "id": 4,
+      "brand_name": "Sony",
+      "image_url": "https://i.ibb.co/Yk3nmPj/rsz-sony-xperia-5-iii.jpg"
+    },
+    {
+      "id": 5,
+      "brand_name": "OnePlus",
+      "image_url": "https://i.ibb.co/HHCS1Ly/rsz-2238-66217.jpg"
+    },
+    {
+      "id": 6,
+      "brand_name": "Xiaomi",
+      "image_url": "https://i.ibb.co/1TJvshp/rsz-xiaomi-13-pro.jpg"
+    },
+    {
+      "id": 7,
+      "brand_name": "Oppo",
+      "image_url": "https://i.ibb.co/7y4BRrL/rsz-oppo-f17-pro-mobile.jpg"
+    },
+    {
+      "id": 8,
+      "brand_name": "HP",
+      "image_url": "https://i.ibb.co/smBYb9B/rsz-wwwrosetechcom-bd-240-g8-01-500x500-1.jpg"
+    },
+    {
+      "id": 9,
+      "brand_name": "Infinix",
+      "image_url": "https://i.ibb.co/gTNLRHL/rsz-infinix-note-30-orange.jpg"
+    }
+  ]
+  
