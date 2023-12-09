@@ -9,7 +9,7 @@ Technologies used:  ReactJS, Tailwind, Material Tailwind, AOS, React Router, Fir
 Features & Functionalities
 
 •Active Route Navbar : The website contains a navbar in every each route. Whe the user visits the home page the Home route  
-                       will be active on navbar such as it's color will change and it will be underlined. Similarly for all of the other route
+                       will be active on navbar such as it's color will change and it will be underlined. Similarly for all of the other route.
 
 • Category Section : A section is created where some cards are created by brand name. User can click on a specific brand card 
                      and user will be redirected to a products section of that brand only.
