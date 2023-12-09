@@ -2,6 +2,10 @@
 
 # Live Link: https://brand-shop-db2ac.web.app/
 
+Technologies used:  ReactJS, Tailwind, Material Tailwind, AOS, React Router, Firebase, Sweet 
+                    Alert, SwiperJS, React Rating, React Icons
+                    Server: NodeJS, ExpressJS, CORS, dotenv, MongoDB
+
 Features & Functionalities
 
 •Active Route Navbar : The website contains a navbar in every each route. Whe the user visits the home page the Home route  
